@@ -7,8 +7,3 @@ For more information about our cited paper, please refer to [this link](https://
 ========
 
 ## File hierarchy
--./
-
-|-src
-
-|-data
