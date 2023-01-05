@@ -10,7 +10,7 @@
 	optimization opt3: data type optimization (achieve 5x speedup while the hardware resource consumption is also reduced)  
 
 • Folder structure
-'''
+```
 | -- README.md # overview of the project
 | -- build/ # build scripts – bitstream generation
 | -- docs/ # Includes ppt and pdf
@@ -36,7 +36,7 @@
 |-- tests/
 | |-- integration # Hardware --> PYNQ-Z2
 | |-- unit # c-sim to co-sim
-'''
+```
 
 • Build Setup – how to rebuild the result
 	FPGA bitstream generation --> refer to build/
